@@ -1,8 +1,8 @@
 {
   "name": "cool-workshop",
-  "productName": "cool-workshop",
+  "productName": "Cool workshop",
   "version": "0.4.0",
-  "description": "My Electron application description",
+  "description": "Workshop logistics manager",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -16,7 +16,7 @@
     "name": "Alex Samokhin",
     "email": "alex@samokhin.dev"
   },
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "config": {
     "forge": {
       "packagerConfig": {},
