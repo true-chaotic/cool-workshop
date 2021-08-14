@@ -5,7 +5,8 @@
     "node": true
   },
   "extends": [
-    "airbnb-typescript"
+    "airbnb-typescript",
+    "plugin:import/electron"
   ],
   "parserOptions": {
     "project": "./tsconfig.json"
